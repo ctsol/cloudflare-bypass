@@ -16,6 +16,12 @@
     "ext-json": "*",
     "ext-bcmath": "*"
   },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/YiMSIT54/simple-javascript-compilation.git"
+    }
+  ],
   "scripts": {
     "phpunit": "phpunit"
   },
